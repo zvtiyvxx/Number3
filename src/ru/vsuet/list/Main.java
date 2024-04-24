@@ -4,8 +4,8 @@ public class Main {
      public static void main(String[] args) {
           IntLinkedList list = new IntLinkedList();
 
-          list.add(5); // Добавление элемента со значением 5 в список
-          list.add(10); // Добавление элемента со значением 10 в список
+          list.add(5);
+          list.add(10);
 
           System.out.println("List size: " + list.size());
 
